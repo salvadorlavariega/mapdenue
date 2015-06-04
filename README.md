@@ -1,0 +1,2 @@
+# mapdenue
+Esta aplicación esta diseñada para encontrar cualquier tipo de establecimiento cerca de tu ubicacion o de alguna otra, usa los servicios de la API denue del INEGI,el cual envia los establecimientos mas cercanos de 0 a 5 km a la redonda de tu ubicacion preferida o actual. Actualmente existen casi 5 millones de establecimientos registrados como restaurantes, torterias, taquerias, bares, taller mecanico, tlapalerias,pinturas, escuelas etc.
